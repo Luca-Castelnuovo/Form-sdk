@@ -1,6 +1,7 @@
 # FormJS-sdk
 
 [![NPM](https://img.shields.io/npm/v/formjs-sdk.svg)](https://www.npmjs.com/package/formjs-sdk)
+![Publish](https://github.com/Luca-Castelnuovo/FormJS-sdk/workflows/Publish/badge.svg)
 
 SDK for form.castelnuovo.xyz
 
