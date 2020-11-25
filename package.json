@@ -1,0 +1,25 @@
+{
+  "name": "formjs-sdk",
+  "version": "1.0.0",
+  "description": "SDK for form.castelnuovo.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Luca-Castelnuovo/FormJS-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Luca-Castelnuovo/FormJS-sdk/issues"
+  },
+  "keywords": [
+    "Form"
+  ],
+  "homepage": "https://form.castelnuovo.xyz",
+  "license": "MIT",
+  "author": "Luca Castelnuovo <luca@castelnuovo.xyz>",
+  "dependencies": {
+    "formdatatojson": "^1.0.0"
+  }
+}
